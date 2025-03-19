@@ -32,8 +32,8 @@ Dota2 比赛助手是一个专门设计用于查询Dota 2比赛数据的AI代理
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/dota2-match-agent.git
-cd dota2-match-agent
+git clone https://github.com/liyincode/dota2-ai-agent.git
+cd dota2-ai-agent
 ```
 
 2. 安装依赖

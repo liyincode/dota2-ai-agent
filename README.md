@@ -33,8 +33,8 @@ This project utilizes the following technology stack:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/dota2-match-agent.git
-cd dota2-match-agent
+git clone https://github.com/liyincode/dota2-ai-agent.git
+cd dota2-ai-agent
 ```
 
 2. Install dependencies
